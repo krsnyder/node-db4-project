@@ -1,15 +1,15 @@
 const ingredients = [
-  { name: 'Rice' },
-  { name: 'Eggs' },
-  { name: 'Chicken Thighs' },
-  { name: 'Chickpeas' },
-  { name: 'Tahini' },
-  { name: 'Lemon' },
-  { name: 'Garlic' },
-  { name: 'Salsa' },
-  { name: 'Cheddar Cheese' },
-  { name: 'Olive Oil' },
-  { name: 'Soy Sauce' },
+  { ingredient_name: 'Rice' },
+  { ingredient_name: 'Eggs' },
+  { ingredient_name: 'Chicken Thighs' },
+  { ingredient_name: 'Chickpeas' },
+  { ingredient_name: 'Tahini' },
+  { ingredient_name: 'Lemon' },
+  { ingredient_name: 'Garlic' },
+  { ingredient_name: 'Salsa' },
+  { ingredient_name: 'Cheddar Cheese' },
+  { ingredient_name: 'Olive Oil' },
+  { ingredient_name: 'Soy Sauce' },
 ];
 
 exports.ingredients = ingredients;
